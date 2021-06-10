@@ -1,0 +1,16 @@
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.exe
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.deps.json
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.runtimeconfig.json
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.runtimeconfig.dev.json
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.dll
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\ref\DemoTask.dll
+C:\Users\Bo\source\repos\Demo\DemoTask\bin\Debug\net5.0\DemoTask.pdb
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.csproj.AssemblyReference.cache
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.AssemblyInfoInputs.cache
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.AssemblyInfo.cs
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.csproj.CoreCompileInputs.cache
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.dll
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\ref\DemoTask.dll
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.pdb
+C:\Users\Bo\source\repos\Demo\DemoTask\obj\Debug\net5.0\DemoTask.genruntimeconfig.cache

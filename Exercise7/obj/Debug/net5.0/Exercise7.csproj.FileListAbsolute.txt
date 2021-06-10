@@ -1,0 +1,16 @@
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.exe
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.deps.json
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.runtimeconfig.json
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.runtimeconfig.dev.json
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.dll
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\ref\Exercise7.dll
+C:\Users\Bo\source\repos\Demo\Exercise7\bin\Debug\net5.0\Exercise7.pdb
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.csproj.AssemblyReference.cache
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.AssemblyInfoInputs.cache
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.AssemblyInfo.cs
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.dll
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\ref\Exercise7.dll
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.pdb
+C:\Users\Bo\source\repos\Demo\Exercise7\obj\Debug\net5.0\Exercise7.genruntimeconfig.cache
